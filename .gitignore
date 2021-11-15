@@ -1,0 +1,12 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/pkg/
+/spec/reports/
+/tmp/
+/.idea/
+/*.iml
+/.ruby-version
+/.tool-versions
+
