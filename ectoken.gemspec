@@ -8,16 +8,16 @@ Gem::Specification.new do |spec|
   spec.name          = 'ectoken'
   spec.version       = Ectoken::VERSION
   spec.authors       = ['Ryan Schultz']
-  spec.email         = ['ryan.schultz@edgecast.com']
+  spec.email         = ['ryan.schultz@edgio.com']
 
-  spec.summary       = 'Ruby implementation of EdgeCast ectoken v3'
-  spec.homepage      = 'https://github.com/EdgeCast/ruby-ectoken'
+  spec.summary       = 'Ruby implementation of Edgio ectoken v3'
+  spec.homepage      = 'https://github.com/edgioinc/ruby-ectoken'
   spec.required_ruby_version = '>= 2.6.0'
 
   spec.metadata['allowed_push_host'] = "TODO: Set to 'https://mygemserver.com'"
 
   spec.metadata['homepage_uri'] = spec.homepage
-  spec.metadata['source_code_uri'] = 'https://github.com/EdgeCast/ruby-ectoken'
+  spec.metadata['source_code_uri'] = 'https://github.com/edgioinc/ruby-ectoken'
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

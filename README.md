@@ -1,5 +1,5 @@
 # ruby-ectoken
-> _Ruby implementation of EdgeCast token (`ectoken`)_
+> _Ruby implementation of Edgio token (`ectoken`)_
 
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 
 ## Background
 
-Ruby implementation of the "EdgeCast Token" (`ectoken`) -see main repo [ectoken](https://github.com/EdgeCast/ectoken) for more details.
+Ruby implementation of the "Edgio Token" (`ectoken`) -see main repo [ectoken](https://github.com/edgioinc/ectoken) for more details.
 
 ## Install
 
